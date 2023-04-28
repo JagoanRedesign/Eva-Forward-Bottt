@@ -1,4 +1,4 @@
-git+https://github.com/MrMKN/pyrogram                          
+git+https://github.com/MKN-BOTZ/pyrogram                          
 tgcrypto
 requests
 bs4
